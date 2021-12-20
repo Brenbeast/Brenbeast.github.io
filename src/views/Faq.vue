@@ -48,7 +48,7 @@
             Since 1978, a series of satellite instruments have measured the
             energy output of the Sun directly. The satellite data show a very
             slight drop in solar irradiance (which is a measure of the amount of
-            energy the Sun gives off) over this time period. So the Sun doesn't
+            energy the Sun gives off) over this time period. Thus, the Sun doesn't
             appear to be responsible for the warming trend observed over the
             past several decades.
           </p>
@@ -60,7 +60,7 @@
             global warming trends?
           </h5>
           <p class="text-muted">
-            ALonger-term estimates of solar irradiance have been made using
+            Longer-term estimates of solar irradiance have been made using
             sunspot records and other so-called “proxy indicators,” such as the
             amount of carbon in tree rings. The most recent analyses of these
             proxies indicate that solar irradiance changes cannot plausibly
@@ -73,7 +73,7 @@
             Water Vapour affects the climate?
           </h5>
           <p class="text-muted">
-            YThe most abundant greenhouse gas, but importantly, it acts as a
+            The most abundant greenhouse gas, but importantly, it acts as a
             feedback to the climate. Water vapor increases as the Earth's
             atmosphere warms, but so does the possibility of clouds and
             precipitation, making these some of the most important feedback
