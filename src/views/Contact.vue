@@ -8,9 +8,7 @@
       </h3>
       <!-- Section description -->
       <p class="text-center w-responsive mx-auto pb-5">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error
-        amet numquam iure provident voluptate esse quasi, veritatis totam
-        voluptas nostrum quisquam eum porro a pariatur veniam.
+       
       </p>
 
       <!-- Grid row -->
