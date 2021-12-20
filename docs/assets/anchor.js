@@ -143,7 +143,7 @@
 
         readableID = elementID.replace(/-/g, ' ');
 
-        // The following code builds the following DOM structure in a more effiecient (albeit opaque) way.
+        // The following code builds the following DOM structure in a more efficient (albeit opaque) way.
         // '<a class="anchorjs-link ' + this.options.class + '" href="#' + elementID + '" aria-label="Anchor link for: ' + readableID + '" data-anchorjs-icon="' + this.options.icon + '"></a>';
         anchor = document.createElement('a');
         anchor.className = 'anchorjs-link ' + this.options.class;
